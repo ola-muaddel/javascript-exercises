@@ -1,3 +1,4 @@
+// Number Checker exercise 
 function numberChecker(number) {
   if (number >= 10) {
     return true;
