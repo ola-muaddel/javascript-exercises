@@ -1,3 +1,4 @@
+// add Numbers exercise
 function addNumbers() {
   const a = 1;
   const b = 1;
