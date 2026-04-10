@@ -8,7 +8,7 @@
 */
 
 // Add your code right below, good luck!
-
+//join string exercise
 let firstName = "Ola";
 let lastName = "Muaddel";
 let thisYear = 2026 ;
