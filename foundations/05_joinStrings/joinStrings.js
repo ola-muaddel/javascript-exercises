@@ -9,8 +9,16 @@
 
 // Add your code right below, good luck!
 
-
-
+let firstName = "Ola";
+let lastName = "Muaddel";
+let thisYear = 2026 ;
+let birthYear = 2005;
+let greeting = "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + " years old.";
+//Optimize
+let fullName = firstName + " " + lastName ;
+let age = thisYear - birthYear ;
+greeting = "Hello! My name is " + fullName +  " and I am " + age +  " years old."; 
+console.log(firstName)
 
 
 // Do not change this
